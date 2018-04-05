@@ -1,0 +1,7 @@
+OnBoardingStatusApp.class
+model/VerificationData.class
+config/MasterDataSourceConfig.class
+dao/VerificationDataDao.class
+VerificationData.class
+repository/VerificationDataRepository.class
+model/RequestData.class
